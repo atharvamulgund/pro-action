@@ -1,6 +1,6 @@
 # ProAction ⚡  
 **AI-powered anti-procrastination app that turns hesitation into action**
-
+![ProAction](./pro-action.png)
 ProAction helps users break procrastination by generating a **clear, realistic next action** instead of motivation or generic productivity advice.
 
 > You tell ProAction what you’re avoiding.  
