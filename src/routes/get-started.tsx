@@ -1,0 +1,12 @@
+import GetStarted from "@/pages/GetStarted";
+import { createFileRoute } from "@tanstack/react-router";
+
+export const Route = createFileRoute("/get-started")({
+  component: RouteComponent,
+});
+
+function RouteComponent() {
+  return (
+   <GetStarted />
+  );
+}
